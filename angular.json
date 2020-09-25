@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "tilescart"
+    }
+  },
+  "defaultProject": "tilescart",
+  "cli": {
+    "analytics": "f9cd7b93-3796-4a6e-a1f4-d57f8778048a"
+  }
 }
